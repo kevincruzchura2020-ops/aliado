@@ -1,0 +1,1 @@
+{ "name": "aliado", "version": "1.0.0", "private": true, "description": "Aliado – asistente personal por voz", "engines": { "node": ">=18" } }
